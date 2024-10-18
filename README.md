@@ -30,7 +30,7 @@ Tkinter (pre-installed with Python).
 Installation Steps:
 
 Clone the repository or download the source code:
-git clone https://github.com/yourusername/cgpa-manager.git
+git clone https://github.com/Sahab00/cgpa-manager.git
 
 Navigate to the project directory:
 cd cgpa-manager
