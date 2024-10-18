@@ -30,7 +30,7 @@ Tkinter (pre-installed with Python).
 Installation Steps:
 
 Clone the repository or download the source code:
-git clone https://github.com/Sahab00/project_gui_cgpa_calculator_pthon
+git clone https://github.com/Sahab00/project_gui_cgpa_calculator_python
 
 Navigate to the project directory:
 cd cgpa-manager
