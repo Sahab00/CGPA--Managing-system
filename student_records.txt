@@ -1,0 +1,5 @@
+{'name': 'Sahab', 'roll_no': '191101', 'semester_no': 5, 'total_subjects': 6, 'total_cgpa': 3.933333333333333, 'marks': [80, 77, 90, 87, 79, 80], 'credit_hours': [3, 3, 3, 4, 3, 2], 'total_credit_hours': 18}
+{'name': 'Aleena ', 'roll_no': '991417', 'semester_no': 5, 'total_subjects': 6, 'total_cgpa': 3.8000000000000003, 'marks': [80, 88, 78, 91, 88, 70], 'credit_hours': [4, 3, 3, 2, 3, 3], 'total_credit_hours': 18}
+{'name': 'hmna', 'roll_no': '155', 'semester_no': 5, 'total_subjects': 6, 'total_cgpa': 3.611111111111111, 'marks': [80, 90, 70, 81, 70, 88], 'credit_hours': [3, 2, 4, 3, 3, 3], 'total_credit_hours': 18}
+{'name': 'ali', 'roll_no': '777', 'semester_no': 6, 'total_subjects': 4, 'total_cgpa': 2.753846153846154, 'marks': [80, 66, 80, 49], 'credit_hours': [3, 3, 4, 3], 'total_credit_hours': 13}
+{'name': 'khan', 'roll_no': '0100', 'semester_no': 4, 'total_subjects': 5, 'total_cgpa': 1.1166666666666667, 'marks': [60, 44, 50, 67, 19], 'credit_hours': [4, 4, 4, 3, 3], 'total_credit_hours': 18}
