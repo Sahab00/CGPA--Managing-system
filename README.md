@@ -1,4 +1,4 @@
-# CGPA Manager System
+# CGPA Managing System
 
 # Description
 -> CGPA Manager is a user-friendly desktop application built using Python’s Tkinter library. It allows coordinators to manage students' academic records, including CGPA calculations, and enables students to view their CGPA. It offers an interactive graphical interface for easy use by both coordinators and students.
