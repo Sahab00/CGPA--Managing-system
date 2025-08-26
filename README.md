@@ -10,38 +10,31 @@
 4) **Student Access:** Students can check their CGPA by entering their roll numbers.
 5) **Data Storage:** Records of student results are saved in a file, ensuring persistence across sessions.
 6) **Exit Functionality:** The user can exit the application at any time using the exit button.
-   
-Installation and Usage 🖥️
-Prerequisites:
-Python 3.x must be installed on your system.
-Tkinter (pre-installed with Python).
 
-Installation Steps:
-
-Clone the repository or download the source code:
-git clone https://github.com/Sahab00/project_gui_cgpa_calculator_python
-
-Navigate to the project directory:
-cd cgpa-manager
-
-Run the program:
-python your_script_name.py
-
-Project Structure 📂
-
+# Project Structure 
 CGPA_Manager/
-├── CGPA_Manager_Notebook.ipynb  # Jupyter notebook containing all code (login, menu, CGPA calculation, file management)
-├── README.md                    # Project overview and instructions
-└── student_records.txt          # Stores student records
+---> CGPA_Manager_Notebook.ipynb  # Jupyter notebook containing all code (login, menu, CGPA calculation, file management)
+---> README.md                    # Project overview and instructions
+---> student_records.txt          # Stores student records
+   
+# Installation and Usage 🖥️
 
-Screenshots 📸
-Main Menu: A welcome screen offering options for both coordinators and students.
-Login Screen: Secure login for coordinators with predefined credentials.
-Student Record Entry: Form for coordinators to input student details and marks.
-CGPA Display: A section where students can check their CGPA by entering their roll number.
+**Prerequisites:**
+- Python 3.x must be installed on your system.
+- Tkinter (usually pre-installed with Python).
 
-Contributing 🤝
-Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request. You can improve features or suggest new ones. Let's make this tool even more powerful for managing academic records.
+# Installation Steps:
 
-License 📄
+1. **Clone the repository or download the source code:**
+git clone https://github.com/Sahab00/CGPA--Managing-system
+
+# Navigate to the project directory:
+cd CGPA--Managing-system
+
+# Launch the notebook using Jupyter:
+-> jupyter notebook cgpa_calculator_project.ipynb
+-> pip install notebook
+
+
+# License 📄
 This project is licensed under the Apache License 2.0: - see the LICENSE file for details.
