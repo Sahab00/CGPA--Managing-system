@@ -1,7 +1,7 @@
 # CGPA Managing System
 
 # Description
--> CGPA Manager is a user-friendly desktop application built using Python’s Tkinter library. It allows coordinators to manage students' academic records, including CGPA calculations, and enables students to view their CGPA. It offers an interactive graphical interface for easy use by both coordinators and students.
+CGPA Manager is a user-friendly desktop application built using Python’s Tkinter library. It allows coordinators to manage students' academic records, including CGPA calculations, and enables students to view their CGPA. It offers an interactive graphical interface for easy use by both coordinators and students.
 
 # Key Features 🎉
 1) **Coordinator Login:** Secure login functionality for coordinators to manage student records.
@@ -12,10 +12,10 @@
 6) **Exit Functionality:** The user can exit the application at any time using the exit button.
 
 # Project Structure 
-CGPA_Manager/
----> CGPA_Manager_Notebook.ipynb  # Jupyter notebook containing all code (login, menu, CGPA calculation, file management)
----> README.md                    # Project overview and instructions
----> student_records.txt          # Stores student records
+CGPA_Manager_System
+1) CGPA_Manager_Notebook.ipynb  # Jupyter notebook containing all code (login, menu, CGPA calculation, file management)
+2) README.md                    # Project overview and instructions
+3) student_records.txt          # Stores student records
    
 # Installation and Usage 🖥️
 
@@ -32,8 +32,8 @@ git clone https://github.com/Sahab00/CGPA--Managing-system
 cd CGPA--Managing-system
 
 # Launch the notebook using Jupyter:
--> jupyter notebook cgpa_calculator_project.ipynb
--> pip install notebook
+1) jupyter notebook cgpa_calculator_project.ipynb
+2) pip install notebook
 
 
 # License 📄
